@@ -30,3 +30,4 @@ spec:
   triggers:
     - type: ConfigChange
   successfulBuildsHistoryLimit: 5
+      uri: https://gitea.apps.cluster-45mw6.sandbox1558.opentlc.com/lab-user/arc-model.git
