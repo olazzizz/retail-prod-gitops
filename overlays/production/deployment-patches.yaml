@@ -9,4 +9,4 @@ spec:
     spec:
       containers:
       - name: object-detection-rest              
-        image: "image-registry.openshift-image-registry.svc:5000/retail-rhods-project/object-detection-rest:dev-2022-07-01-09-30-27"      
+        image: "image-registry.openshift-image-registry.svc:5000/retail-rhods-project/object-detection-rest:dev-2024-02-19-10-52-06"      
